@@ -26,11 +26,17 @@ Analyzed customer data using Python to identify key factors influencing customer
 ## Files
 - churn_analysis.ipynb: Main analysis notebook
 - data.csv: Dataset used
-
+- 
 ## Visualizations
 
-### Study Hours vs Productivity
-![Study](study hours vs productivity.png)
+# Study Hours vs Productivity
+![Study](study_vs_productivity.png)
+
+# Sleep vs Productivity
+![Sleep](sleep_vs_productivity.png)
+
+# Screen Time vs Productivity
+![Screen](screen_time_vs_productivity.png)
 
 ### Sleep vs Productivity
 ![Sleep](sleep vs productivity .png)
