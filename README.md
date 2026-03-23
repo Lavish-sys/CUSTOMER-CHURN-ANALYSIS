@@ -38,8 +38,6 @@ Analyzed customer data using Python to identify key factors influencing customer
 # Screen Time vs Productivity
 ![Screen](screen_time_vs_productivity.png)
 
-### Sleep vs Productivity
-![Sleep](sleep vs productivity .png)
 
 ### Screen Time vs Productivity
 ![Screen](screentime vs productivity.png)
